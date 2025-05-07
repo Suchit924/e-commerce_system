@@ -17,6 +17,9 @@ A complete e-commerce web application built with Flask. It includes user authent
 
 ## Getting Started
 1. Clone the repo
+   ```bash
+   git clone https://github.com/Suchit924/e-commerce_system.git
+   cd e-commerce_system
 2. Set up a virtual environment
 3. Run `pip install -r requirements.txt`
 4. Launch with `flask run`
